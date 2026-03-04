@@ -1,0 +1,8 @@
+row_id,order_id,order_date,ship_date,ship_mode,customer_id,customer_name,segment,country,city,state,postal_code,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit
+999,CA-2026-999001,3/1/2017,3/5/2017,Second Class,CG-99999,Anna Smith,Consumer,United States,Boston,MA,02101,East,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0,41.91
+1000,CA-2016-152156,11/8/2016,11/11/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,KY,42420,South,TEC-PH-10002200,Technology,Phones,Apple iPhone 6, 699.99,1,0,100
+1001,CA-2016-152157,11/9/2016,11/12/2016,Standard Class,CG-12521,John Doe,Consumer,United States,Henderson,KY,42420,South,FUR-CH-10000454,Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chair,731.94,3,0,219.58
+1002,CA-2016-152158,11/10/2016,11/15/2016,First Class,CG-12522,Mary Johnson,Corporate,United States,Louisville,KY,40202,South,OFF-LA-10000240,Office Supplies,Labels,Avery 5263 Self-Adhesive Address Labels,14.62,2,0,6.87
+1003,CA-2016-152159,11/11/2016,11/14/2016,Standard Class,CG-12523,Claire Gute,Consumer,United States,Henderson,KY,42420,South,FUR-TA-10000577,Furniture,Tables,Mayline Medina Conference Table,957.58,5,0,109.44
+1004,CA-2016-152160,11/12/2016,11/17/2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,KY,42421,South,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,261.96,2,0,41.91
+1005,CA-2016-152161,11/13/2016,11/18/2016,Standard Class,CG-12524,Robert Brown,Home Office,United States,Lexington,KY,40503,South,TEC-PH-10002201,Technology,Phones,Samsung Galaxy S7,599.99,1,0,120
